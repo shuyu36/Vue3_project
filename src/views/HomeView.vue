@@ -10,6 +10,9 @@
       <Button @click="remove(info.id)" >
         刪除
       </Button>
+      <Button @click="remove(info.id)" >
+        刪除
+      </Button>
     </div>
   </section>
 </template>
